@@ -46,3 +46,9 @@ Create a new directory
     apt-get install libssl-dev
     
     apt-get install make build-essential libssl-dev zlib1g-dev libbz2-dev libsqlite3-dev
+    
+    
+    
+Install pip if not installed
+
+  apt-get install python3-pip
